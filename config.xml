@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.sandwichcafe.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Garden of the Spikes Mobie</name>
+
+  <description>
+      A mobile port of SandwichCafe's game Garden of the Spikes.
+  </description>
+
+  <author href="https://sites.google.com/view/sandwichcafesite/home" contact="https://scratch.mit.edu/users/SandwichCafe/">
+      SandwichCafe
+  </author>
+
+  <icon src"icon" />
+
+</widget>
